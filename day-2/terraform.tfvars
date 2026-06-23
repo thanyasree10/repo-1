@@ -1,3 +1,3 @@
-ami_id = "ami-0152204c1a187337c"
+ami_id = "ami-08f44e8eca9095668"
 instance_type = "t2.medium"
 name = "key-instance"
